@@ -64,7 +64,7 @@ st.sidebar.image(images, use_column_width=True, caption=["Data Science Keywords"
 st.header('About')
 about = """
             This Machine Learning application was built by implementing common NLP techniques on over 30 randomly picked
-            Job Descriptions for Data related roles like Data Analyst, Data Scientist and Machine Learning Engineer. 
+            Role Descriptions for data related titles like Data Analyst, Data Scientist and Machine Learning Engineer. 
             Detailed analysis and insights can be found on my notebook here - https://github.com/Abhishek-Dxt/NLP_data_roles/blob/master/NLP_data_roles.ipynb \n
             It must be noted that the analysis is based on specific role descriptions by around 30-34 companies and is meant to get an
             estimate of role relevant skills.\n
