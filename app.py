@@ -9,7 +9,7 @@ final_model = saved_model['model']
 cv = saved_model['vectorizer']
 
 st.set_page_config(page_title='NLP on Data Roles')
-st.markdown("<h2 style='font-family:cambria; text-align: center; color:#1A224C' > NLP on Data Roles </h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='font-family:cambria; text-align: center; color:#1A224C' > NLP on Data Roles </h2>", unsafe_allow_html=True)
 
 
 def output(skills):
@@ -55,20 +55,21 @@ if user_input:
 
         st.success("Ideal Role: "+role)
 
-images = ['ds.png','ml.png', 'da.png']
-# st.image(images, width = 500, caption=[])
+with st.sidebar:
+    st.markdown("<h3 style='font-family:cambria; text-align: center; color:#8b0000' > Dataset analysis and Visualization </h3>", unsafe_allow_html=True)
 
+images = ['ds.png','ml.png', 'da.png']
 st.sidebar.image(images, use_column_width=True, caption=["Data Science Keywords","Machine Learning Keywords", "Data Analysis Keywords"])
 
 st.header('About')
 about = """
             This Machine Learning application was built by implementing common NLP techniques on over 30 randomly picked
             Job Descriptions for Data related roles like Data Analyst, Data Scientist and Machine Learning Engineer. 
-            Detailed analysis and insights can be found on my notebook here - \n
-            The datasets used can be found here - https://github.com/Abhishek-Dxt/Car-Bazaar/blob/master/used_cars_data.csv \n
-            The entire project can be accessed on my GitHub - https://github.com/Abhishek-Dxt/Car-Bazaar \n
+            Detailed analysis and insights can be found on my notebook here - https://github.com/Abhishek-Dxt/NLP_data_roles/blob/master/NLP_data_roles.ipynb \n
             It must be noted that the analysis is based on specific role descriptions by around 30-34 companies and is meant to get an
-            estimate of role relevant skills.
+            estimate of role relevant skills.\n
+            The entire project along with the datasets used can be found in my repository here - 
+            https://github.com/Abhishek-Dxt/NLP_data_roles \n
             Check my other projects and contact details at - https://abhishek-dxt.github.io/
 """
 st.write(about)
