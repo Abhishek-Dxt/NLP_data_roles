@@ -66,7 +66,7 @@ about = """
             This Machine Learning application was built by implementing various NLP techniques on over 30 randomly picked
             Role Descriptions for data related titles like Data Analyst, Data Scientist and Machine Learning Engineer. 
             Detailed analysis and insights can be found on my notebook here - https://github.com/Abhishek-Dxt/NLP_data_roles/blob/master/NLP_data_roles.ipynb \n
-            It must be noted that the analysis is based on specific role descriptions (by 30-34 companies), hence the model could naturally have biases. 
+            It must be noted that the analysis is based on specific role descriptions (by 30-34 companies), hence the model is naturally prone to biases. 
             It is meant to get an intelligent estimate of role relevant to one's skills.\n
             The entire project along with the datasets used can be found in my repository here - 
             https://github.com/Abhishek-Dxt/NLP_data_roles \n
