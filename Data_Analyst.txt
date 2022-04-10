@@ -1,0 +1,361 @@
+"PMA Companies" - Data Analytics
+Responsibilities
+Participate in the development of multiple Qlik applications. Key development process includes:
+Analyze and select relevant metrics.
+Provide necessary data and information for Qlik data modeling.
+Create and/or modify Qlik applications with supervision.
+QA application performance and data.
+Create workflows using Power App and support any tasks related to SharePoint development and application maintenance.
+Utilize SQL and Perl to recreate or automate Hyperion and/or MicroStrategy queries.
+Demonstrate commitment to Company's Code of Business Conduct and Ethics, and apply knowledge of compliance policies and procedures, standards and laws applicable to job responsibilities in the performance of work.
+Requirements
+Current or entering Junior or Senior in a qualified college or university with a GPA of 3.0 or better.
+Major in Data Science preferred but not required.
+Working knowledge of MS Excel, MS Access, SQL and VBA required. Perl Script, Qlik Sense, SharePoint Power App, Hyperion, MicroStrategy and Tableau preferred.
+Strong organizational skills with demonstrated ability to work independently and deal effectively with multiple tasks simultaneously.
+Proven critical thinking skills that demonstrate analysis/judgment and sound decision making with focus on attention to details.
+Excellent verbal and written communication skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Canon" - DA
+Qualifications
+•
+We are looking for qualified people with diverse backgrounds and experiences, open minds, positive attitudes, and a disciplined work ethic
+•
+Master’s degree in Data Analytics with 0-5 years of experience or similar degree with 5+ years of experience
+•
+Strong problem-solving skills to ensure data is correct and responsible areas accept the results
+•
+Strong communication skills (written, verbal and visual) to ensure your analysis is clearly understood
+•
+Excellent attention to detail while understanding the need to meet schedule deadlines
+•
+Experienced in Microsoft Excel (Pivot tables, Vlookup, etc.)
+•
+Prioritization skills to manage workload and make sound decisions
+•
+Proficient using query languages such as SQL
+•
+Experience with Big Data/Data Science tools like R and Python
+•
+Experience with Data Visualization tools/toolkits like PowerBI
+•
+Potential opportunities for minimal travel
+Responsibilities
+•
+Preference will be given to those living near Rochester, NY or Boca Raton, FL
+•
+This Data Analytics Analyst role will support our Field Service team
+•
+Analyze multiple data sources in detail to identify trends and problems
+•
+Link data usage and customer issues to improve problem resolution
+•
+Look for data trends not previously identified through deep understanding of the data
+•
+Collaboratively work with field service, product support, engineering, and the supply chain
+•
+Present and interpret data findings to peers and management
+•
+Support and/or build field service tools to automate analysis
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Vodori" - DA
+Responsibilities:
+
+Conceptualize and contribute to overall platform data architecture; while helping to prepare for the growth of our data science initiatives
+Collaborate with engineers, product managers, and data scientists customers to understand data needs, representing key data insights visually in a meaningful way
+Partner with business stakeholders to answer questions with data, and identify data opportunities that drive impact
+Build dashboards and reports, and carry out exploratory analysis
+Build clean, transformed, and well-tested data sets
+Optimize data pipelines, models, and dashboards to ensure highly accurate and reliable business reporting;
+Train business users on how to use data platform and visualization tools
+Apply software engineering best practices to analytics code (ex version control, testing, continuous integration)
+Stay up to date with the latest technologies and trends in data engineering and analytics to improve our existing technology stack
+
+Qualifications:
+
+5+ years of experience in data warehousing, familiarity with Snowflake
+2+ years experience with ETL processes and data transformation, including scheduling jobs (DBT, Python, cron). Bonus using templating languages (such as Jinja), and manipulating multiple data formats (XML, JSON)
+5+ years experience writing SQL
+5+ years experience with data modeling
+Experience with market-leading data visualization software (Sisense, Looker, etc) in B2B environment preferred
+Excellent communication skills; ability to communicate effectively with key stakeholders and engineers
+Proactive, self-motivated, and can work independently with strong organizational and time management skills
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Pilot" - DA
+Key Responsibilities
+
+Design, build and maintain scalable data models that are clean, tested, and well documented
+Expand our data warehouse with clean data ready for analysis
+Become a go-to expert and owner of tools up and down our data stack, including Snowflake, dbt, Fivetran, and Stitch
+Work with internal customers and stakeholders to ensure we’re solving the right problems
+Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale data infrastructure
+
+About You
+
+4+ years of experience in a data role. Preferably someone that has experience with building/maintaining data pipeline
+Expert-level knowledge of SQL, dbt, Snowflake
+Familiar with ETL/ELT tools (we use Fivetran and Stitch)
+Enthusiasm for conducting reproducible analysis
+Able to work collaboratively across functions
+Clear and direct communication skills about complex, technical topics
+Experience with Looker is a plus
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Applied Systems" - DA
+What You Will Do
+Connect and analyze data sets to identify insights and trends
+Identify improvements in the way data is defined and used by customers
+Interpret and communicate your findings in a way that is easily understood by those less familiar with data
+Develop relationships with distributed cross-functional teams for domain expertise
+Document, organize, and educate teams about data, definitions, and insights
+What You Will Need To Be Successful
+Remote Opportunity: Ability to work 100% remotely, or from an Applied Systems office
+Must have:
+3+ years relevant, successful data analysis experience
+Strong curiosity and drive for collaboratively exploring and solving problems
+Proficient with SQL server and spreadsheet tools like Excel
+Experience with cloud environment: GCP or AWS
+Excellent interpersonal and communication skills, including the ability to communicate your workand results
+Desired skills (but not required):
+Python, R, or other coding
+Ability to work with customers.
+PowerBI and/or Google BigQuery experience
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"L'Oréal" - DA
+Qualifications
+•
+2 years of experience working in an analytically focused role
+•
+Advanced Excel knowledge required (pivot tables, formulas, automation)
+•
+Hands-on experience developing data models and reports in PowerBI using Power Query and DAX
+•
+Hands-on experience working with relational databases/large datasets to derive insights and make recommendations
+•
+Ability to work cross-functionally, build relationships and excel in team and cross-functional environment
+•
+Well-developed verbal and written communication and interpersonal skills
+Responsibilities
+•
+This individual would ensure all BI reports and data sets are populated with correct data, and being leveraged by the organization
+•
+Train users on existing self-service BI tools, as well as build out new data sets and data models for cross collaborative teams
+•
+*Key Job Accountabilities**
+•
+Deliver best-in-class analytical dashboards using PowerBI
+•
+Ownership and mastery of all data sources leveraged by NYX BI team, including shared national/global systems as well as databases created in house
+•
+Timely delivery of all ETL processes that feed downstream reporting
+•
+Act as the primary point of contact for Sales and Marketing teams in need of analytical assistance, not limited to historical shipments, brick and mortar consumption, online consumption, SKU-level analysis, etc
+•
+Collaborate with other brands and shared services on IT projects relating to BI
+•
+Utilize available data to support cross-functional teams by identifying risk and opportunities
+•
+Assist in building out meaningful stories to support sales and marketing initiatives and needs
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Disney" - DA
+Qualifications
+•
+5+ years of analytical experience
+•
+4+ years work experience using SQL and Python/R or other statistical programming languages
+•
+Familiarity with data exploration and data visualization tools like Tableau, Looker, Chartio, etc
+•
+Understanding of statistics concepts (e.g., hypothesis testing, regression analysis)
+•
+Ability to think strategically, analyze and interpret market and consumer information
+•
+Strong communication skills, as well as written and verbal presentation skills
+•
+Degree in an analytical field
+Responsibilities
+•
+Goaling and KPIs: Work “full-stack” to define KPIs and goal metrics with XFN stakeholders, forecast outcomes, and measure pacing against those targets
+•
+Business Performance Reporting, Visualization, and Regression Management: Be the primary partner for cross-functional stakeholders to understand engagement and retention on the platform
+•
+When engagement is ahead or behind expectations, dig in to drive meaningful, actionable insights that help the business performance improve or double-down on success
+•
+ETL & Metric Design: Own metric design and creation by defining business requirements, framework & optimization, and long term data scalability
+•
+Deep-Dive Analysis: Analyze user behavior to identify patterns, uncover opportunities, and create a shared understanding of how our subscribers are engaging with the platform & content
+•
+Forecasting, and Opportunity Sizing: Both to set goals and help evaluate potential opportunities, this role will be tasked with forecasting and opportunity sizing
+•
+This will help business stakeholders evaluate trade-offs in different approaches, and create targets for driving business performance
+•
+Partnership: Partner closely with business stakeholders to identify and unlock opportunities, and with other data teams to improve platform capabilities around data modeling, testing platforms, data visualization, and data architecture
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"HSBC" - DA
+The core objective of this role is work as part of the Data Management team to drive and deliver high impact data quality outcome.
+
+Lead the data analysis and remediation for high priority DQ analysis and remediation initiatives such as Credit and Lending Data Quality
+Identify DQ themes, define prioritization parameters, perform root cause analysis and identify IT systems involved in the DQ theme.
+Manage project execution tasks and milestones through agreed delivery in tools such as Monday.com
+Obtain data required for analysis through various channels such as Google Cloud Platform, APIs and flat files
+Understand the data structures; relationships between various data elements; perform data wrangling; cleansing and data analysis using tools such as Alteryx or through programming languages such as SQL, Python and PySpark
+Present the findings to various stakeholders in easy to understand terms
+Create DQ rules that enable periodic and continuous monitoring & exception reporting.
+Define and implement DQ remediation procedures across business users
+Adhere to the data management policy across Data Storage, Data Movement, Data Usage and Data Privacy
+Create and maintain appropriate documentation for the project and associated tasks in Confluence
+There are known translation gaps in language between business/ operations teams and data teams. This role will need to intentionally put effort in understanding the business usage of the data.
+Requirements
+Employment eligibility to work with HSBC in the U.S. is required as the company will not pursue visa sponsorship for these positions.
+
+You should apply today!
+
+Prior experience as a Data Analyst or a Data Quality Analyst with demonstrable experience and knowledge of data quality measurement, reporting and Issue management for large financial institutions
+Alteryx, SQL, Excel, and PowerPoint proficiency
+Self-Starter, Problem Solving, excellent communication skills
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"UBS" - DA
+
+Your role
+
+Are you an analytic thinker? Do you know how to develop innovative solutions? Do you like to collect and interpret data ?
+We are looking for a Data Analyst to:
+conduct requirement gathering sessions, provide documentation of business process and requirements needed for MRMTC submission along with finding and implementing workable business solutions by supporting the business architects by describing the business process
+reconcile large datasets, identify patterns and perform root cause analysis – strong analytical skills required
+collaborate with businesses, cross-functional teams and support organizations to remove roadblocks
+report back findings in a comprehensive way to the wider business/relevant colleagues
+design/improve automated processes to periodically assess data quality
+manage and 'own' significant pieces of project deliverables end-to-end
+Your team
+
+You’ll be working in the Risk Technology team in Weehawken, NJ. The Risk Technology organization at UBS, delivers quality, innovative solutions that support our Group Functions business partners in achieving their operational goals. Technology is at the very heart of UBS. As a team of talented individuals, we have a critical role to play in building, delivering and maintaining the systems, services and infrastructure that power our business. Technology is about people and every person has a crucial role to play on the UBS Technology team.
+
+Diversity helps us grow, together. That’s why we are committed to fostering and advancing diversity, equity, and inclusion. It strengthens our business and brings value to our clients.
+
+Your expertise
+
+a degree in Business Management / Mathematics / Computer Science / Data Science / Statistics / Economics
+ideally 3 years of experience working with complex databases, data extraction and data mining and coding in VBA / Excel, Python, Alteryx, SQL or equivalents
+basic understanding of Capital Markets and financial instruments
+ability to quickly understand complex processes, identify risks and inadequacies in procedures, as well as propose practical and sustainable solutions
+ability to clearly communicate expectations to team members and businesses
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Meta" -DA
+Data Analyst, Global Talent Selection Responsibilities:
+
+Build new analytics and reporting capabilities to support program evaluation and operations
+Handle ad hoc reporting and analytics requests, while addressing stakeholder long-term needs and driving insights for Human Resource Partners and Executives using existing dashboard, Human Resource Information System (HRIS) data, and leveraging our people data ecosystem
+Intake on business needs and apply contextual knowledge in order to scope data requests, synthesize insights, and recommend solutions to key business partners in collaboration with others
+Effectively communicate with cross-functional partners and internal teams to deliver solutions in a timely fashion
+Proactively manage stakeholder expectations, manage escalations and resolve issues in a timely manner
+
+Minimum Qualifications:
+
+4+ years of experience working with SQL or relational database
+2+ years of experience with data visualization tools (e.g., ggplot2, Tableau)
+Experience initiating and driving projects to completion with minimal guidance
+Experience working in a fast-paced and demanding environment
+Experience having effective conversations with clients about their support needs and requirements, managing the intake process, and asking the right questions to scope and solve the requests
+Demonstrated judgment and discretion when dealing with highly sensitive people data and business issues
+
+Preferred Qualifications:
+
+Comfortable working in a fast-paced and demanding environment
+Experience manipulating large data sets through object oriented programming (e.g., Python), statistical software (e.g., R) or other methods
+Experience with R or Python for developing metrics or research variables
+Knowledge of advanced visualization principles within a data presentation context (e.g., dashboards, presentation decks)
+Experience working with HR/organizational people data preferred (e.g., selection/assessment, headcount, turnover, recruiting metrics, and other people analytics)
+Experience with data management, specifically with building data systems and validating reports from disparate systems
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"AcreTrader" -DA
+The data analyst will provide analytical support for cleaning, merging, and summarizing gridded and vector-based datasets for integration into the platform. In addition, they will assist with data sharing/transfer, continuous ingestion of datasets into databases, and exploration of new data sources that are potentially useful for our clients. Hiring the right person for this role is important to our team because they will be an integral part of the creation and continuous improvement of our AcreMaps platform.
+
+Core Responsibilities:
+Communicate with the data science team and internal stakeholders
+Document data sources and code
+Merge, clean, and wrangle geospatial data
+Conduct exploratory data analysis
+Create useful and communicative data visualizations
+Contribute to planning analyses and future data products
+Develop scalable analytics for integration into AcreMaps
+As at any growing company, you can expect many other tasks and responsibilities to be assigned as well as growth opportunities to be seized.
+
+Key Competencies
+Bachelor's degree in computer science, data analytics, engineering, geography, or related field
+Python
+Geospatial data formats
+Imagery processing and analysis
+Comfort working in an Agile environment
+Entrepreneurial mindset and ability to thrive in a startup environment
+Transparency and openness to feedback
+Legal authorization to work in the United States is a precondition to employment at AcreTrader
+
+Preferred Qualifications:
+Experience with Google Cloud Platform or similar cloud computing platforms
+Masters degree in a relevant field
+Familiarity with statistics and machine learning
+Experience in
+Google Earth Engine
+Git
+Docker
+Postgres/PostGIS
+Jira or similar sprint-oriented project workflow software
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Walmart" - DA
+Qualifications
+•
+Experience in analytical tools such as PowerBI, DataIku, Tableau Prep, Alteryx, Looker and Thought Spot
+•
+Demonstrating a strong SQL background with experience pulling data from Big Query and SQL servers
+•
+You have strong knowledge of mathematics particularly statistics
+•
+You have a strong sense of Urgency
+•
+You have the ability to code using R or Python and have working knowledge of SQL and at least one of the following: R, Python, VBA, etc
+•
+You have a proven track record to solve problems through mathematical and deductive reasoning
+•
+You have a strong technical background and have worked in Data Analytics and Reports
+•
+As permitted by applicable law, provide evidence of full vaccination as defined by CDC guidelines OR secure approval of medical or religious accommodation for the vaccination mandate., Option 1: Bachelor's degree in Business, Engineering, Statistics, Economics, Analytics, Mathematics, Arts, Finance or related field and 4 years' experience in data analysis, data science, statistics, or related field
+•
+Data science, data analysis, statistics, or related field, Master’s degree in Business, Computer Science, Engineering, Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field, Related industry experience (for example, retail, merchandising, healthcare, eCommerce), Successful completion of assessments in data analysis and Business Intelligence tools and scripting languages (for example, SQL, Python, Spark, Scala, R, PowerBI, or Tableau)
+Responsibilities
+•
+The Principal Data Analyst will lead the analytical support on highly sensitive area in Walmart
+•
+This is a role that works closely with the Business to develop analytical solutions and support multiple business teams
+•
+The candidate will be able to process data from disparate data platforms, build and support dashboards (BI/Tableau) and reports to deliver the most relevant analytical tool
+•
+The ideal candidate will have strong communication skills with an ability to clearly communicate complex technical matters to all levels of Walmart leadership
+•
+The role will support the Innovation & Automation Strategic Programs team to buildout dashboards and create reports pulling data from multiple data platforms to report out on business OKR’s and track AOP savings across corporate initiatives
+•
+The role will need to obtain and analyze data and put it in a format that “tells the story”
+•
+Processing large amounts of data for statistical modelling and analysis
+•
+Being curious, working with partners to develop Analytics solutions across the Innovation & Automation teams

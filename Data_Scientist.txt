@@ -1,0 +1,265 @@
+"Systemart" -DS
+Strategy & Planning
+" Work with cross departmental team to define metrics, guidelines, and strategies for effective use of algorithms and data.
+" Identify, design, and build appropriate datasets for identification of complex Data pattern and analytics.
+" Create data mining and analytics architectures, coding standards, statistical reporting, and data analysis methodologies.
+" Establish links across existing data sources and find new, interesting mash-ups.
+" Coordinate data resource requirements between analytics, Application teams and Business Stakeholders.
+" Work with product managers, engineers, and analytics team members to translate prototypes into production
+" Assist in the development of data management policies and procedures.
+" Develop best practices for analytics instrumentation and experimentation.
+
+Acquisition & Deployment
+" Conduct research and make recommendations on big data infrastructure, database technologies, analytics tools, services, protocols, and standards in support of procurement and development efforts.
+" Well versed in Cloud technologies and Big Data platform.
+" Drive the collection of new data and the refinement of existing data sources.
+
+Operational Management
+" Develop algorithms and predictive models to solve critical business problems.
+" Analyze historical data, identify patterns come up with predictive, prescriptive, descriptive and cognitive analytics.
+" Develop tools and libraries that will help analytics team members more efficiently interface with huge amounts of data.
+" Will deep dive as the requirement demands into supervised machine learning (classification - binary target variable). Expert in handling a suite of non-parametric classification algorithms (Decisions Tree, Rule-Based classifier & Naive Bayes) as well as parametric classification algorithms (Logistic Regression, Support Vector Machine, Nearest Neighbor Classifiers) with deeper use of R, python. Expert in Un supervised learning techniques. Knows the optimal method /technique to use in different situations.
+" Analyze large, noisy datasets and identify meaningful patterns that provide actionable results.
+" Develop and automate new enhanced imputation algorithms.
+" Create informative visualizations that intuitively display large amounts of data and/or complex relationships.
+" Provide and apply quality assurance best practices for data science services across the organization.
+" Develop, implement, and maintain change control and testing processes for modifications to algorithms and data analytics.
+Knowledge & Experience
+" Well versed with CRISP-DM methodology and reference model.
+" Very Hands on. Has proven track record of successful Data Science implementations from industry preferably Public Transportation and Travel industry.
+" Responsible for building advanced analytics and models for critical business areas including schedule optimization, anomaly detection of the routes, driver utilizations, GPS data and engine fault codes.
+" Perform advanced quantitative and statistical analysis of large datasets to identify trends, patterns, and correlations that can be used to improve business performance.
+" Develop scalable, efficient, and automated processes for large scale data analyses and model development, validation, and implementation.
+" Utilization of machine learning and other techniques to prevent, detect/resolve route data and operational data anomalies requiring human intervention.
+" Core and strategic responsibility to assess, plan and develop driver scoring algorithms and model.
+" Collaborates with internal and external business and data teams, data engineers and analysts.
+" Oversee processes within the Data and Analytics team to ensure sustainable and efficient deployment of algorithm trained models.
+" Advanced knowledge one or more of the following: Linear and Non-Linear Models, Time Series Analysis, Random Forest, SVM, Neural Networks, Unsupervised Methods (Dimensionality Reduction, Clustering, etc.)
+" Probabilistic Modeling and Computation.
+" Machine Learning, including Deep Learning.
+" Advanced knowledge in R and Python.
+" Advanced experience with SQL skills.
+" Must be able to perform impact data analysis and data profiling on source data systems and determine best way to model data.
+" Employ data visualization tools where appropriate (ggplot, Tableau, ThinkCell, etc.).
+" Clearly communicate project requirements and modeling outcomes to technical and non-technical audiences.
+" Ability to work in a self-directed work environment.
+" Ability to work in a team environment.
+" Extensive experience solving analytical problems using quantitative approaches.
+" Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+" Well versed with Git.
+" Expert in using NLP, Ensemble methods.
+" Do Exploratory Data analysis using SQL.
+" Must have machine learning and AI expertise.
+" Familiarity with relational, SQL and NoSQL databases.
+" Expert knowledge of statistical analysis tools such as R, R studio, Matlab, Rapid Miner
+" Good working knowledge of Reporting Analytical tools like Tableau, Power BI
+" Experience with very large datasets a must.
+" Knowledge of map/reduce framework (hive/pig other tools for accessing data in Hadoop/HBase cluster systems) a plus.
+" Experience in programming with JAVA, Perl, C.
+" Project management experience.
+" Good understanding of the organization's goals and objectives.
+" Knowledge of applicable data privacy practices and laws.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Microsoft" - DS
+Responsibilities
+
+As a Data Scientist intern, you will formulate approaches to solve problems using well-defined algorithms and data sources. You will incorporate an understanding of product functionality and customer perspective to provide context for those problems. You will use data exploration techniques to discover new questions or opportunities within your problem area and propose applicability and limitations of the data. Successful Data Scientists will interpret the results of their analysis, validate their approach, and learn to monitor, analyze, and iterate to continuously improve.
+
+You will engage with peer stakeholders to produce clear, compelling, actionable insights that influence product and service improvements that will impact millions of customers. As a Data Scientist, you will also engage in the peer review process and act on feedback while learning innovative methods, algorithms, and tools to increase the impact and applicability of your results.
+
+Qualifications
+Currently pursuing a bachelor's or master's in Computer Science, Mathematics, Economics, Statistics, Applied Sciences like Biostatistics, Physics, Chemistry, Computational Neurology and or other quant-focused field with at least one semester/quarter remaining after internship.
+Some Engineering experience and or project course work using large data systems on SQL, Hadoop, etc.
+Proficiency using one or more programming or scripting language to work with data such as: Python, Perl, or C#.
+Some experience and or project course work performing data analysis and applying statistics working with tools such as: Excel, R, MATLAB, AMPL, or SAS.
+Some experience and or project course work with product and service telemetry systems.
+Some A/B Testing or experimentation (this can be from conducting real life science experiments, hypothesis testing in stats etc.) Not required but ideal.
+Some experience or course work applying basic ML to a type of data and or used algorithms to conduct experiments on data. Machine Learning strongly encouraged.
+Passion to learn from your peers, manager, and other stakeholders in the Data Science domain.
+Ability to interact with peers and stakeholders to drive product and business impact.
+Strong interpersonal and communications skills.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Yahoo" - DS
+Responsibility:
+Analyze user needs and identify/prioritize the problems, pain points, and pleasure points (via analytics, behaviors, clicks/conversions, funnels, etc.)
+Build models to gain insights on what drives performance in terms of reach, retention, referral, and revenue growth
+Create dashboards and reports that provide analysis and commentary, explaining the product, marketing, and business trends for Executive reporting
+Inform and update executives and stakeholders on product performance, plans, and progress towards metrics
+Define data testing plans and create methodologies that help teams to iterate fast and release new features for testing and, if successful, rollout to all users globally
+Focus the product roadmap on achieving the metrics that matter and making ruthless decisions about what to do (and almost as importantly what not to do)
+Generate and go deep on consumer insights and competitive intelligence to help teams drive product innovation and iteration
+Help teams understand/internalize consumer insights, choices, and preferences – and how these influence the product/testing roadmap to drive growth
+Build strong partnerships with a product, design, engineering, and marketing teams and enable them to launch new Growth initiatives for testing/iteration
+Provide feedback to product and engineering teams on impact of product launches: target launch metrics, A|B testing, post-launch metrics
+Distill all metrics from statistically significant deviations that will impact reach, retention, referral, and/or revenue metrics
+Investigate data and monitor data quality – partner closely with and provide requirements to the Data Engineering teams that can be acted upon
+Frame business problems into questions that can be answered through data analysis, and translate business needs into requirements
+Design and lead time-sensitive strategic research projects involving methodology development, analysis, strategic recommendations, and presentation of findings to Senior Management
+
+Preferred:
+BS/MS in the highly-quantitative field (Computer Science, Statistics, Mathematics, Analytics, Data Science)
+Data analysis, generating insights for consumer-focused companies
+Experience with statistical programming languages such as Python or R
+Familiarity with query optimization and data ETL
+Experience with big data technologies such as Hive, Hadoop, MapReduce, Spark, etc.
+Machine Learning skills, including cluster analysis, neural networks, predictive modeling
+Experience using Statistical techniques including correlation analysis, design of experiments, linear and nonlinear regressions, logistic regression, sampling and resampling methods, time series, and longitudinal analysis
+Significant experience, proficiency in, and passion for Mobile and/or Web products
+Track record of proactively establishing and following through on commitments
+Blend of consumer insights, competitive intelligence, and technical knowledge
+Demonstrated use of analytics, metrics, and benchmarking to drive decisions
+Excellent interpersonal, organizational, creative, and communications skills
+Team player in driving growth results combined with a positive attitude
+Strong work ethic and strong core values (honesty, integrity, creativity)
+Problem solver who never stops thinking about ways to improve
+Self-motivated, results-driven, and team-oriented leader
+Killer consumer instincts and data sensibilities
+Demonstrated success in previous roles
+Passion for Yahoo and cool products
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Ad Astra" - DS
+Core Responsibilities:
+
+Prepare data pipelines as inputs for exploratory data analysis and modeling tasks
+Data exploration in search of answers to existing and new business questions
+Formalize business and industry problems into data and statistical inference problems
+Find creative ways to use data for strategic advantage and further company objectives
+Collaborate with the data science team on existing problems and projects
+Conduct data science research on areas of interest within the higher education industry
+Recommend improvements in data science procedures and processes
+Partner with business departments to highlight the most impactful data science findings
+Review analysis validation data to ensure results are accurate, valid, and reliable
+Suggest innovative ideas to increase productivity and improve overall impact and experience
+Provide feedback to company management on the internship program and make recommendations to improve this program moving forward
+·
+
+Requirements:
+
+Ability to work a minimum of 20 hours per week
+Programming proficiency (preferably Python or R)
+SQL and familiarity with relational databases
+Effective presentation and research skills
+Ability to prioritize and effective time-management
+An inquisitive, open mind and the ability to think outside of the box
+Data wrangling skills
+Ability to work collaboratively within and across teams
+Preferred Skills:
+
+Model building and experience with common machine learning tasks (e.g., classification, regression, clustering)
+Relevant course work in analytics, machine learning, computer science, statistics, optimization
+Experience developing data visualizations
+Understanding of data structures, algorithms, object-oriented design, and NoSQL technologies
+Familiarity with the AWS development platform
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+"Stripe" -DS
+You Will
+Partner closely with several Product, Engineering, User Experience Research, Marketing, Sales, Finance, and Data Science teams to shape product strategy using rigorous scientific solutions
+Apply statistical and/or machine learning models on large datasets to: i) measure results and outcomes, ii) identify causal impact and attribution, iii) predict the future performance of users or products, to drive business success
+Create metrics and dashboards for key performance indicators, deep dive to understand the drivers, and influence partner teams for improvement
+Design, analyze, and interpret the results of experiments
+Drive the collection of new data and the refinement of existing data sources.
+Collaborate with other data analysts, data scientists, data engineers (and people from other disciplines) to proactively seek and incorporate feedback
+Learn quickly by asking great questions, finding how to work with your mentor and teammates effectively, and communicating the status of your work clearly
+Present your projects to the Data Science team, partner teams, and fellow interns
+We’re Looking For Someone Who Has
+A strong fundamental understanding in a quantitative field through the pursuit of a Ph.D. or Master’s degree (e.g., Statistics, Physics, Computational Biology, Mathematics, Economics, Neuroscience, or Computer Science) with the expectation of graduating in winter 2022 or spring/summer 2023
+Expert knowledge of a scientific computing language (such as R or Python) either through side projects, research, classwork, or previous work experience. We work mostly in R or Python.
+Strong in-depth knowledge or focus, as well as general skills and knowledge in machine learning, statistics, and/or experimental design
+Ability to communicate clearly to explain your work to stakeholders, team members, and other people at Stripe, sharing results clearly and a focus on driving business impact
+You Also Likely Have
+Prior experience with data-distributed tools (Spark, Scalding, Hadoop, etc.)
+Applied experience with SQL. We believe new programming languages can be learned if the fundamentals and general knowledge are present.
+Experience from previous internships or other multi-person projects, that demonstrate evaluating and receiving feedback from mentors, peers, and stakeholders
+Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Cisco" -DS
+What You’ll Do
+Acquire, clean and structure data from multiple sources and maintain databases/data systems.
+Identify, analyze, and interpret trends or patterns in complex data sets
+Develop, prototype and test predictive algorithms
+Filter and "clean" data, and review computer reports, printouts, and performance indicators to locate and correct code problems
+Develop and implement data collection systems and other strategies that optimize statistical efficiency and data quality
+Interpret data, an alyze results using statistical techniques and provide ongoing reports
+
+Who You’ll Work With
+
+Work on massive structured, unstructured, transactional and real-time data sets from a variety of sources to analyze customer usage patterns and provide actionable, int uitive, impactful insights using metrics, algorithms, and statistics.
+
+Who You Are
+Currently enrolled in a BS, MS or MBA program or equivalent in Computer Science, Mathematics, Economics, Information Management, Statistics or a related field
+You know ho w to work a problem from beginning to end with data science tools and techniques, including data manipulation (SQL, Hadoop, etc.) and programming (R, Python, XML, Javascript , or ETL) frameworks
+Experience with Oracle databases is desirable. Strong knowledg e of and experience with reporting packages (Business Objects etc ). Knowledge of statistics and experience using statistical packages for analyzing large datasets (Excel, SPSS, SAS etc ).
+Technical knowledge regarding data models, database design developmen t, data mining and segmentation techniques
+Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+P roficient in queries, report writing and presentin g findings
+Able to legally live and work in the country for which you’re applying, without visa support or sponsorship
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"GrowSquares" -DS
+You’re interested in deep learning, A/B and multivariate testing methodologies, statistical analysis, and high-quality prediction systems. We're a small team so you'll need to be excited at the opportunity of taking an idea from theory into deployment and excited to work in a dynamic environment of discovery.
+
+What you will be doing:
+
+As a data science intern, you will be key to the development of our plant recommendation and support engines of our digital products and services. You will be responsible for defining the data structures we use to determine which plants work best, which includes training acquired data, model selection (comparing, validating, and choosing parameters and models), model relevant feature selection, and performing predictive analytics.
+
+You will collaborate with marketing, researchers, software developers and business leaders to define product requirements and provide analytical support. As we grow, you will also be primarily responsible for improving the engine behind plant success, developing tests that isolate susceptibility to varying disease/fungi, and improving plant yield.
+Conducting exploratory data analysis and performing data wrangling and cleaning
+Write high-quality code, actively participate in code reviews, and consistently help to ship software
+Working closely with researcher and product manager to parse relevant academic and industry papers in order to better develop solutions
+Building visualization dashboards for internal and external stakeholders
+Developing end-to-end machine learning pipelines focusing on predictive models and time-series analysis
+Deploying solutions to the cloud and working with the developer to integrate them into our relevant platforms (mobile application, website, etc.)
+Working with clients in order to properly integrate needed/requested solutions into our product offerings
+Improving upon existing methodologies by developing new data sources, testing model enhancements, and fine-tuning model parameters
+
+Requirements
+Bachelor's Degree in Computer Science, Statistics, Data Science, Engineering, or other quantitative disciplines (Master’s degree preferred)
+1+ years of relevant working experience in an analytical role involving data extraction, analysis, and communication
+2+ years of experience with data querying, scripting, and statistical/mathematical languages (e.g. Python, R, SQL, MATLAB, etc.)
+Direct experience with both supervised learning methods (linear and logistic regression, time-series modeling, generalized linear models, decision trees, random forests, support vector machines, etc.) and unsupervised learning methods (K-means, hierarchical clustering)
+Understanding of tools to work with large data sets, e.g. NoSQL, ElasticSearch, MongoDB
+Working knowledge of cloud computing technologies (preferably GCP and AWS) and how to leverage them for use in data science
+Experience with REST APIs and Flask framework
+Excellent verbal and written communication skills, familiar with tools like Slack and Asana
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Meta" DS
+Research Data Scientist Responsibilities:
+
+Identify appropriate quantitative methods and build relevant data sets to address challenges across different domains in Meta’s infrastructure.
+Develop statistical and machine learning solutions end-to-end through the full life cycle of prototyping, testing, evaluating, deploying and maintaining them at Meta scale.
+Develop measurement solutions and experimentation frameworks to ensure effective data-driven decision making.
+Form close collaborative relationships with other data scientists and engineering partners to understand the business context, develop domain expertise, and prioritize across projects in the relevant domain.
+Be responsible for the end-to-end execution of projects in the relevant domain through effective stakeholder management.
+Shape the technical vision and strategies of the engineering partner team through data-driven recommendations.
+Communicate project results and recommendations to stakeholders and cross-functional partners.
+
+Minimum Qualifications:
+
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience.
+Degree in a quantitative field such as Computer Science, Statistics, Engineering, Operations Research, and other related technical fields with focus on computation and modeling (e.g. Bioinformatics, Neuroscience, Physics).
+4+ years of experience applying statistical and machine learning techniques such as hypothesis testing, time series analysis, classification, regression, and clustering to business problems.
+4+ years of experience performing data extraction, manipulation, and visualization using programming languages (e.g., Python), scientific computing languages (e.g., R, MATLAB), or SQL.
+3+ years of experience presenting findings from statistical and machine learning methods to diverse audiences through effective communication.
+Experience with at least one programming language (e.g., Python, Java, C++).
+Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment.
+
+Preferred Qualifications:
+
+Advanced degree in quantitative fields such as Computer Science, Statistics, Engineering, Operations Research, and other related technical fields.
+2+ years of experience executing on the full life cycle of projects through project planning, data collection, model prototyping and deployment, with responsibilities encompassing stakeholder management and communication to cross-functional partners.
+Experience with scientific computing and analysis packages such as NumPy, SciPy, Pandas, Scikit-learn, dplyr, caret.
+Experience with data visualization libraries such as Matplotlib, Pyplot, seaborn, ggplot2.
+Experience working with distributed computing tools such as Hadoop, Hive, and Spark.
+Proficiency in data structures and algorithms.

@@ -1,0 +1,332 @@
+"Capital One" - ML 
+What You’ll Do In The Role 
+The MLE role overlaps with many disciplines, such as Ops, Modeling, and Data Engineering. In this role, you'll be expected to perform many ML engineering activities, including one or more of the following:
+Design, build, and/or deliver ML models and components that solve real-world business problems, while working in collaboration with the Product and Data Science teams.
+Inform your ML infrastructure decisions using your understanding of ML modeling techniques and issues, including choice of model, data, and feature selection, model training, hyperparameter tuning, dimensionality, bias/variance, and validation).
+Solve complex problems by writing and testing application code, developing and validating ML models, and automating tests and deployment.
+Collaborate as part of a cross-functional Agile team to create and enhance software that enables state-of-the-art big data and ML applications.
+Retrain, maintain, and monitor models in production.
+Leverage or build cloud-based architectures, technologies, and/or platforms to deliver optimized ML models at scale.
+Construct optimized data pipelines to feed ML models.
+Leverage continuous integration and continuous deployment best practices, including test automation and monitoring, to ensure successful deployment of ML models and application code.
+Ensure all code is well-managed to reduce vulnerabilities, models are well-governed from a risk perspective, and the ML follows best practices in Responsible and Explainable AI.
+Use programming languages like Python, Scala, or Java.
+Basic Qualifications
+Bachelor’s degree
+At least 2 years of experience designing and building data-intensive solutions using distributed computing (Internship experience does not apply)
+At least 2 years of experience programming with Python, Scala, or Java
+At least 1 year of Machine Learning experience with an industry recognized ML framework (scikit-learn, PyTorch, Dask, Spark, or TensorFlow)
+Preferred Qualifications
+Experience developing and deploying ML solutions in a public cloud such as AWS, Azure, or Google Cloud Platform
+1+ years of experience working with large code bases in a team environment
+1+ years of experience with distributed file systems or multi-node database paradigms
+Contributed to open source ML software
+1+ years of experience building production-ready data pipelines that feed ML models
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Synechron" - ML 
+Experience with Python or Scala is required. Background in programming in C, C++, Java is beneficial. Exposure to both streaming and non-streaming analytics Experience with SQL, Spark, Pandas, Numpy. Scipy. Statsmodels, Stan, pymc3. Caret. Scikit-learn, Keras, TensorFlow, Pytorch, Databricks is beneficial.
+Basic advanced understanding of ML Concepts/Frameworks/Algorithms etc.
+Experience working with large data sets, simulation / optimization and distributed computing tools (Hadoop. Hive. Spark, Gurobi, Arena, etc.)
+Database development experience using Hadoop or BigQuery and experience with a variety of relational, NoSQL, and cloud database technologies
+Experienced with database systems (eg.. Redshift, Athena
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Bastian Solutions" - ML 
+The AI/ML Intern will work alongside a dedicated mentor on our AI/ML team to assist in development of our core AI framework, as well as conduct research into new applications. This position will have ample opportunity to learn from team members, as well as to have ownership of focused research projects and designs.
+
+Job Functions 
+Research new domains and techniques applicable to our applications
+Participate in team discussions on the latest state-of-the-art, bleeding edge advances in AI, computer vision, and robotics
+Work with team to apply research and demonstrate results on live systems
+Participate in design reviews and code reviews
+Engage in Agile development processes to plan sprints and team workloads
+Follow GitFlow processes for robust version control
+
+
+Preferred Skills And Qualifications 
+Undergraduate program in Computer Science, Computer Engineering, or related field
+Solid understanding of software engineering practices
+Machine Learning / Data Science / Deep Learning introductory level coursework
+Comfortable with Linux (Ubuntu) environment and Bash terminal workflow
+Experience with JuPyteR, Matplotlib, Seaborn, Pandas
+Experience with Git version control tools
+Must be eligible to work in the USA long term without sponsorship.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Samsung Research America" - ML 
+Position Overview/Responsibilities
+Work with large datasets and build Machine Learning models for Samsung’s AREmoji 3D characters
+Test and evaluate ML models on latest Galaxy devices
+Qualifications
+Currently pursing Master's/PhD degree in Computer Science or relevant field
+Expected to complete degree by July 2024 or earlier
+Desired Skills & Experience
+Hands on experience with ML/DL frameworks like TensorFlow/Keras or PyTorch
+Expertise with data handling Python libraries like Numpy, Pandas, Matplotlib etc.,
+Having Computer Vision experience in face tracking and landmark detection would be a plus
+Strong command on Algorithms and Data Structures
+Excellent programming skills
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Eversight" - ML 
+Who You Are
+
+You are an analytical, framework thinker
+You are comfortable in a fast-paced environment
+You are highly collaborative
+You are very strong technically, with a good ability to translate a business problem into a technical one
+You are business focused; measures work in its contributions to business outcomes and prioritizes effort against deliverables accordingly
+
+Your Qualifications
+
+You have 2+ years of experience in Data Science or Machine Learning
+You have an BS., M.S., or PhD in Computer Science, Machine Learning, Statistics, Mathematics, Engineering, Economics, Operations Research, or relevant quantitative field
+You have excellent coding ability. Able to write optimized Python code (vectorization, lazy evaluation, etc.)
+You are experienced with NumPy and Pandas
+You have experience in test-driven development strongly preferred
+You are strong in math (Linear Algebra, Calculus, etc.) and numerical problem solving (e.g. optimization)
+You are experienced with Generalized Linear Models
+Experienced in A/B testing and Design of Experiments preferred
+Agile experience preferred
+Familiarity with standard econometric methods is a big plus
+Demand Modeling, Forecasting, Pricing, and Causal Inference experience a plus
+Strong in statistics relevant to Machine Learning preferred (hypothesis testing, Bayesian methods, regression, maximum likelihood estimation, etc.)
+Nice to have: Neural Networks (Deep Learning, Embeddings, Sequence Modeling, CNN), Tree-based methods (GBDT, Random Forest), Regularization Methods (L1/L2 penalties, Feature Selection, Dimensionality Reduction)
+
+What You’ll Do
+
+You will generate ideas and quickly turn them into efficient, well-tested, functioning code in our Python codebase
+You will partner with the Engineering team to create highly scalable solutions
+You will research, implement and modify modern Data Science techniques. More specifically:
+Build Statistical and Machine Learning models that describe the impact of prices and promotions on shopper behavior, including behavioral pricing effects. You’ll need to find middle ground between using flexible modern AI methods and proven classical methods.
+Develop Optimization and Experiment Design systems, which determine the best prices to set for each product in each store each week. Finding a good balance on the exploration-exploitation tradeoff will be important
+Design and run pricing experiments across hundreds of stores and tens of thousands of products
+Create model validation methods to make sure that our models are accurate and to quantify the impact of our solutions on the clients’ bottom line
+You will collaborate with the team to prioritize new feature development by assessing potential impact
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"BlueVine" - ML 
+WHAT YOU'LL DO
+
+Support BlueVine's business and research Machine Learning Software Engineer teams by designing and developing data-centric infrastructure tools to facilitate and enhance Data Analytics and Research, both in real-time and offline.
+Design and implement next-generation ML workloads, focusing on modern, efficient Big Data technologies.
+Use pipeline orchestration tools such as AirFlow, ML platforms such as SageMaker and data frameworks to design and develop first-in-class solutions for the financial sector.
+Work closely with BlueVine's Data Science and Data Analytics teams.
+Work closely with BlueVine's other R&D teams to help incorporate industry best practices, define and enforce data governance procedures, and monitor system performance.
+WHAT WE LOOK FOR
+
+5+ years of experience as a data engineer/big-data developer in a fast-paced environment.
+5+ years of hands-on experience programming in Python.
+Exceptional communication skills, ability to collaborate smoothly with and convey complex ideas in a clear way to people of different backgrounds.
+A quick learner, adaptable and have the ability to work independently or as part of a team in a fast-paced environment.
+Ability to quickly and independently learn new technologies, frameworks, and algorithms.
+Proactive, result-driven and multi-tasker; creative but committed to meeting deadlines.
+Excellent communication skills, written and verbal.
+Nice to haves:
+
+BSc/BA in Computer Science or related field.
+Experience with AWS ecosystem, microservices and container technology.
+Experience with building Big Data pipelines and using tools and frameworks such as Spark, Hadoop, etc.
+Experience working Python ML libraries (e.g. Pandas, Numpy, Scikit Learn).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"WeWork" - ML 
+Responsibilities
+
+You will work with complex data sets to develop advanced analytical methods, mathematical modeling, and large-scale implementation strategies
+You can experiment and develop machine learning algorithms for tasks including demand forecasting, elasticity calculations, and inventory optimization
+You will take ownership of whole end-to-end predictive modeling projects - from data processing, training, optimization to real-time monitoring and maintenance
+
+Requirements
+
+M.Sc / PhD in Statistics, Machine Learning, Computer Science, Operational Research, or in a highly quantitative field
+3+ years of hands-on experience in predictive modeling, large data sets and related technologies
+Expert level Experience in Python
+Deep understanding of advanced theoretical statistics
+Expertise in specialized areas such as NLP, Reinforcement Learning, Probabilistic Inference, Machine Learning, Neural Nets, Information Retrieval, Recommendation Systems, Optimization.
+Understanding Deep Learning methods - an advantage
+Problem solving ability
+Good communication skills, ability to work with large cross-functional teams of technical and non-technical members.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"OverStock" - ML
+Job Responsibilities
+Develop and maintain production-quality ML systems, including ETL and on-demand modeling runtimes.
+Collaborate with other developers (both data scientists and engineers) to design, research, implement, and integrate solutions.
+Be a source of knowledge and mentorship for data scientists who do not have an engineering background.
+Designs, develops, and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources.
+Interact with product and service teams to identify questions and issues for data analysis and experiments.
+Build and interact with applications in our cloud system
+Develop and code software programs, algorithms, and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources.
+Job Requirements
+Minimum three years of professional software development experience.
+Strong coding skills, including proficiency in Java and/or Python.
+Ability to design and build highly performant and scalable systems.
+Strong analytical and quantitative skills. You have basic familiarity with techniques in machine learning, deep learning, NLP, computer vision and/or related fields.
+Excellent collaborator and communicator and are eager to learn and grow!
+Skills
+Experience with webservice development.
+Experience with big data technologies such as Hadoop/Spark.
+Experience with informational retrieval technologies such as recommendation systems and search engines.
+Experience building batch and streaming data pipelines.
+Experience in data mining, learning to rank, deep learning, natural language processing, machine learning, and/or related fields.
+Proficiency with unit, integration, and performance testing.
+Reasonable overlap with the following relevant technologies and processes:
+Java, Python, Scala
+Google Cloud Platform, Databricks, AWS
+Big Data tools such as Hadoop, Oozie, Spark, Pig
+Streaming systems such as Kafka
+ML Modeling tool such as scikit-learn, Tensorflow, Keras, Torch
+Kubernetes, Docker, Airflow
+Linux, bash
+NoSQL systems such as Redis, Cassandra, RDBMS, Bigtable, HBase, Solr
+Continuous Integration
+Performance testing and troubleshooting
+Strong desire to collaborate and develop new technologies.
+Willingness to learn new tools and flexibility to adapt to different deployment pipelines
+Strong communication abilities and willingness to lead and inspire other engineers
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Beacons" - ML 
+TLDR:
+
+You’d drive progress with all things ML at Beacons! Beacons sits between the creator’s audience and their monetization tools. You will leverage data to figure out what kinds of tools work for what kinds of content creators, directly informing product strategy.
+Besides a competitive salary, amazing benefits and stock in an early-stage, high-growth startup - you’ll have a team that appreciates you, always has your back, and treats you like the domain expert you are.
+Some of us work together in the SF office, but hiring good people is our top priority - if you’re a fit, we’re happy to relocate you OR have you work from wherever, as long as you can collaborate in Pacific time!
+You’ll work directly with a founding team of Stanford ML PhDs
+
+About You:
+
+Fluent in Python (pytorch, tensorflow, scikit-learn) and SQL
+Constantly thinking about how ML fits into the bigger picture — how it touches the product and the end user
+Has experience carrying out ML projects from conception to deployment
+A graduate degree in ML, statistics, math, or related field
+3+ years of product experience (negotiable)
+Entrepreneurial and eager about exploring new opportunities created by ML (non-negotiable)
+Interested in or passionate about the creator economy
+
+What You’d Be Working On:
+
+Building, organizing, and maintaining our ML training and testing infrastructure
+Pipelines for cleaning our raw data (from SQL, DWH, NoSQL) in preparation for training ML models
+A process for deploying ML models to production in a cost-effective manner
+A meaningful way to quantitatively represent our users so that we can figure out which features/qualities are most important and predictive of creator success
+The ULTIMATE recommendation engine for creators help them run more successful businesses
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"Qualcomm" - ML 
+Responsibilities
+Software development of the neural processing engine (NPE) and NPE SDK tools to support execution of the latest DNNs on Snapdragon chips
+Validate the performance and accuracy of your software through detailed analysis and test
+
+Ideal Candidates For This Position Will Demonstrate The Following
+Bachelor's degree or equivalent in Engineering, Information Systems, Computer Science, or related field
+Strong software development skills (e.g. data structure and algorithm design, object oriented or other software design paradigm knowledge, software debugging and testing, etc.)
+Hands-on software development experience using C/C++ and/or Python
+Strong communication skills (verbal, presentation, written)
+
+Preferred Qualifications
+Experience with different NN architectures DNNs, CNNs, RNNs/LSTMs, GANs, etc.
+Experience with one or more of the following DL frameworks: PyTorch, Caffe, Caffe 2, TensorFlow, and ONNX
+Experience with Android or other embedded platforms
+Linux software development
+Ability to collaborate across a globally diverse team and multiple interests
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"S&P Dow Jones Indices" - ML 
+Basic Qualifications
+You have at least one core programming expertise, such as python (NumPy, SciPy, Pandas), MATLAB, or R
+Experience with advanced machine learning methods
+Strong statistical knowledge, intuition, and experience modeling real data
+Ability to communicate even the most complicated methods and results to a broad, often non-technical audience
+Demonstrated effective coding, documentation, and communication habits
+Experience leading teams
+Preferred Qualifications
+Several of the following terms should hold deep meaning for you: LSTM, lookahead bias, bagging, boosting, stacking, information retrieval, batch norm, entity recognition, bootstrapping, Glorot initialization, Kullback-Leibler divergence, GLOVE, SMAPE, HMM, MAP, exponential family, VC dimension, EM, L1, TD(Lambda)
+You have 3+ years of experience being a major machine learning contributor at a top company, hedge fund, or university
+You have the ability and credibility to lead a team
+Technologies You Will Use
+Python and specifically Numpy, SciPy, Pandas, scikit-learn
+Neural network packages like TensorFlow and Keras
+ML packages like LightGBM and XGBoost
+OpenFST
+Elasticsearch
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+"FieldCore" - ML
+Job Summary:
+
+The Machine Learning Engineer applies knowledge and expertise to all aspects of ML model development lifecycle through a continuous partnership with stakeholders. Helps to accelerate firm-wide AI/ML strategic programs through world-class engineering and MLOps, including duties such as data wrangling, feature engineering, model training, and deployment and monitoring.
+
+
+Essential Duties & Responsibilities:
+
+Design and develop machine learning and deep learning systems
+Research and implement appropriate ML algorithms and tools
+Identify and validate business use cases that can be solved with AI/ML
+Identify additional datasets required for use cases
+Analyze and visualize data at different stages of the modeling pipeline
+Coordinate with cross-functional teams to seek feedback on models, share results, and implement models
+Create and maintain models and model versions, experiments, and metadata
+Develop end-to-end Data MLOps pipelines based on in-depth understanding of cloud platforms
+Design and build pipelines that shorten development cycles for AI/ML systems
+Build and maintain data pipelines for analytics model evaluation and training, including versioning compliance and validation
+Evaluate the latest packages and frameworks in the ML ecosystem
+Leverage Agile practices in continuously improving our delivery quality and velocity
+Minimal travel required
+May be assigned other duties to help proactively drive our FieldCore vision and align with our organization’s core values
+
+Required Qualifications & Experience:
+
+Bachelor's degree in computer science, information systems, or electrical engineering, or equivalent experience
+6+ years of applicable experience in a Machine Learning Engineer or similar role
+3-5 years of experience in AL/ML technologies, including:
+AWS Sagemaker
+Machine Learning frameworks, libraries, and packages such as TensorFlow, Keras, and Scikit-Learn
+3+ years of experience in developing ML applications in production environments
+Experience with MLOps and applied understanding of the ML algorithms
+Solid understanding of data structures and algorithms design methodologies
+Knowledge of AWS or other cloud services
+Experience developing and managing packages and APIs using Python
+English proficiency required
+
+Desired Characteristics:
+
+Solid understanding of machine learning fundamentals, good expertise in cloud architecture
+AWS Certified Machine Learning Specialty certification preferred
+Ability to work in large, collaborative teams to achieve organizational goals
+Self-motivation to learn new tools, applications, and business processes
+Independent and team player with enthusiasm in working in both management and customer-oriented environment
+Effective communication skills both verbal and written (including documentation skills)
+
+
+
+"HelloFresh" - ML 
+You will ...
+Design and improve end to end Machine Learning Projects (e.g. lookalike audience and propensity scores, Forecasting, Media Mix Modeling, lifetime modeling, Churn modeling etc…)
+Provision clusters to train models on huge datasets and deploy feature preparation pipelines.
+Deploy and monitor models in production (e.g. building artifacts, measuring model drift, etc ...)
+Close the loop with human interaction: architecting web apps for data products based on ML models. Building efficient delivery mechanisms for model outputs (e.g. API, microservices)
+You are …
+An active, solution-oriented member of autonomous, cross-functional agile teams collaborating with Product Owners, Data Scientists, and Business Intelligence teams
+Able to develop an in-depth understanding of HelloFresh’s core product and architecture, and act as an ambassador for state of the art software solutions and industry best practices offering support and mentorship to colleagues
+At minimum you have...
+MSc or Ph.D. in STEM Discipline with 8+ years of related commercial experience are required.
+Minimum 5 years of commercial experience building machine learning models and deploying them in production. Advanced knowledge of models for classification, regression, and time-series forecasting (e.g. Gradient Boosting, Random Forests, Lasso Regression, Prophet etc…). Deep Learning experience preferred.
+Working with Python and proficiency with open source libraries such as pandas, pyspark, scikit-learn, Catboost/XGboost. Experience with Apache Spark.
+Advanced Coding in SQL is preferred (query optimization).
+Thorough experience with Cloud Platforms (e.g. Amazon AWS, Google Cloud, Azure), DevOps, and Automation for CI/CD.
+The ability to design, implement and deliver maintainable and high-quality code. Minimum 3 years of experience using best practices such as Git/GitHub, secrets encryption, Docker, yaml/json configurations etc…
+Knowledge of visualization tools (Tableau, Grafana) is preferred.
