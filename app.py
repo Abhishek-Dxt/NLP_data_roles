@@ -25,7 +25,7 @@ def output(skills):
         lst.append(round(proba * 100, 2))
     return role, lst
 
-user_input = st.text_input("Type skill(s)", '')
+user_input = st.text_input("Type skill(s) e.g. 'TensorFlow', 'MapReduce'", '')
 role, scale = output(user_input.lower())
 
 
