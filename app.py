@@ -25,7 +25,7 @@ def output(skills):
         lst.append(round(proba * 100, 2))
     return role, lst
 
-user_input = st.text_input("Type skill(s) e.g. 'TensorFlow', 'MapReduce'", '')
+user_input = st.text_input("Enter skill(s) e.g. TensorFlow, MapReduce, Tableau, or try combinations.", '')
 role, scale = output(user_input.lower())
 
 
@@ -33,7 +33,7 @@ role, scale = output(user_input.lower())
 
 if user_input:
     if role == "error":
-        st.error("Give relevant input (input didn't appear in the used datasets).")
+        st.error("Give more relevant input.")
     else:
         st.write('Data Analyst - ', str(scale[0]), '%')
         my_bar_da = st.progress(0)
