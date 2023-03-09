@@ -11,6 +11,9 @@ cv = saved_model['vectorizer']
 st.set_page_config(page_title='NLP on Data Roles')
 st.markdown("<h2 style='font-family:cambria; text-align: center; color:#1A224C' > NLP on Data Roles </h2>", unsafe_allow_html=True)
 
+desc = """ Test which data role would be most ideal for your 'particular set of skills'. """
+st.write(desc)
+
 
 def output(skills):
     data = cv.transform([skills]).toarray()
